@@ -21,5 +21,7 @@
 ## 当前内容
 
 - [论文备考资料指南（2026-10-07）](research/papers/2026-10-07-论文备考资料指南.md)：GitHub 资料入口、官方大纲边界、评分可信度说明和练习骨架。
+- [近年论文真题目录](research/papers/近年论文真题目录.md)：按考试年月整理当前仓库里的20道论文题，并链接原始截图、标记回忆版与不完整材料。
+- [题目考点归类与考场写作法](research/papers/题目考点归类与考场写作法.md)：从题目要求归纳主题、提纲拆解步骤与范文使用方法。
 - [来源台账](research/papers/sources.md)
 - [Agent 资料审核与评分规范](research/papers/agent-review-rubric.md)
