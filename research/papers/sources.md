@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- |
 | S01 | [中国计算机技术职业资格网：考试用书](https://www.ruankao.org.cn/book/main.html) | 官方入口；确认考试大纲、教程等官方用书信息 | 页面列出大纲、教程、辅导用书及购买链接 | 一级来源；页面本身没有展示论文逐项评分细则，具体版本须到现行目录核实 |
 | S02 | [湖南省工信厅：计算机技术与软件专业技术资格考试宣传提纲](http://gxt.hunan.gov.cn/gxt/rkb/jsjbkxz/202202/t20220210_22480065.html) | 政府部门说明；了解统一考试制度、科目分值与合格标准 | 说明考试全国统一大纲、试题、时间、标准、证书；每科75分，通常各科45分及格 | 政府部门页面；文章发布日期为2022-02-10，涉及现行政策的部分应与最新通知交叉核验 |
-| S03 | [GitHub：系统架构设计师考试大纲第二版整理](https://github.com/lcp0578/book-note/blob/master/books/ruankao/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88%E8%80%83%E8%AF%95%E大纲第二版/README.md) | 社区大纲转录；全文检索辅助 | 第二版大纲的社区整理页面 | 非官方镜像；URL/排版与内容需对照官方出版大纲核验，不能用作唯一凭据 |
+| S03 | [GitHub：系统架构设计师考试大纲第二版整理](https://github.com/lcp0578/book-note/blob/master/books/ruankao/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B2%E7%AC%AC%E4%BA%8C%E7%89%88/README.md) | 社区大纲转录；全文检索辅助 | 第二版大纲的社区整理页面 | 非官方镜像；内容需对照官方出版大纲核验，不能用作唯一凭据 |
 | S04 | [GitHub：xxlllq/system_architect](https://github.com/xxlllq/system_architect) | 公开备考仓库；历年真题、论文范文/模板索引 | README 分列论文真题范文模板目录，并列出历年真题与更新记录 | 社区整理；部分资料可能转向收费页面，README 不能证明文件版权或内容正确性 |
 | S05 | [GitHub：xiaomabenten/system_architect](https://github.com/xiaomabenten/system_architect) | 公开备考仓库；论文和真题资料索引 | README 列出“论文（真题范文+写作）”、真题范文、参考范文及模板等目录 | 仓库声明 MIT 不代表其中全部第三方资料受 MIT 授权；逐文件核对许可和来源 |
 | S06 | [GitHub：Altria1979/System_Architect 2023备考记录](https://github.com/Altria1979/System_Architect/blob/main/README_2023.md) | 个人备考记录；发现范文、模板和参考文章线索 | 页面列出论文模板、例文、2023范文及外部读物 | 个人整理、年份较早；只作线索，不作考试规则或评分细则来源 |
