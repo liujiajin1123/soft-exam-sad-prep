@@ -11,7 +11,7 @@
 | S05 | [GitHub：xiaomabenten/system_architect](https://github.com/xiaomabenten/system_architect) | 公开备考仓库；论文和真题资料索引 | README 列出“论文（真题范文+写作）”、真题范文、参考范文及模板等目录 | 仓库声明 MIT 不代表其中全部第三方资料受 MIT 授权；逐文件核对许可和来源 |
 | S06 | [GitHub：Altria1979/System_Architect 2023备考记录](https://github.com/Altria1979/System_Architect/blob/main/README_2023.md) | 个人备考记录；发现范文、模板和参考文章线索 | 页面列出论文模板、例文、2023范文及外部读物 | 个人整理、年份较早；只作线索，不作考试规则或评分细则来源 |
 | S07 | [希赛：软考系统架构设计师论文评分标准](https://www.educity.cn/rk/5326818.html) | 培训机构评分参考；辅助建立自查维度 | 文中列出切合题意、应用深度与水平、实践性、表达能力、综合/分析能力及参考权重 | 非官方公开评卷文件；权重只能作为机构参考，不可引用为官方定分公式 |
-| S08 | [本仓库 research/tmp 论文真题截图](https://github.com/liujiajin1123/soft-exam-sad-prep/tree/main/research/tmp) | 用户提供的题库图像；题目转录与命题要求拆解 | 2024年5月、10月；2025年5月、10月；2026年5月，共20张图 | 以图片原件为证；非官方认证题本。2025年5月题目2—4只有考友回忆标题，2026年5月题目3为考生回忆版；2022—2023年材料缺失 |
+| S08 | [本仓库 research/tmp 论文真题截图](https://github.com/liujiajin1123/soft-exam-sad-prep/tree/main/research/tmp) | 用户提供的题库图像；题目转录与命题要求拆解 | 2021—2026年，共32张图；2021—2023文件名未标月份/场次，2024年5月/10月、2025年5月/10月及2026年5月有月份标注 | 以图片原件为证；非官方认证题本。2025年5月题目2—4只有考友回忆标题，2026年5月题目3为考生回忆版；2023年边云协同术语有疑似识别错误需核实 |
 
 ## 使用时的区分
 
